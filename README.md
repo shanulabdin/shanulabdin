@@ -1,18 +1,26 @@
-## Hi there 👋
+# Hi there, I’m Shan 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shanulabdin&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
 
-<!--
-**shanulabdin/shanulabdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught developer passionate about building apps that solve real problems and sharing what I learn.
 
-Here are some ideas to get you started:
+- 🔭 Working on: Home services booking app  
+- 🌱 Learning: Advanced JavaScript & React Native  
+- 👯 Collaborate: Open to teamwork on app projects  
+- 💬 Ask me about: JS, app dev, and productivity  
+- 📫 Contact: [email@example.com](mailto:email@example.com) | [Twitter](https://twitter.com/yourhandle)  
+- ⚡ Fun fact: Can do 100 deep pushups daily!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)  
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)  
+
+---
+
+### GitHub Stats
+
+![shanulabdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanulabdin&show_icons=true&theme=dark)
