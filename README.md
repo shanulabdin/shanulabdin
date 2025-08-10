@@ -5,19 +5,17 @@
 I’m a self-taught developer passionate about building apps that solve real problems and sharing what I learn.
 
 - 🔭 Working on: Home services booking app  
-- 🌱 Learning: Advanced JavaScript & React Native  
+- 🌱 Learning: Advanced JavaScript 
 - 👯 Collaborate: Open to teamwork on app projects  
 - 💬 Ask me about: JS, app dev, and productivity  
-- 📫 Contact: [email@example.com](mailto:email@example.com) | [Twitter](https://twitter.com/yourhandle)  
-- ⚡ Fun fact: Can do 100 deep pushups daily!
+- 📫 Contact: [Instagram](https://www.instagram.com/shantist._/)
+- ⚡ Fun fact: I do 100 deep pushups daily!
 
 ---
 
 ### Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)  
 
 ---
 
