@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shanulabdin)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shanulabdin&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
 
 <!--
 **shanulabdin/shanulabdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
