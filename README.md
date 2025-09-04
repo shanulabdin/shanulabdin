@@ -4,12 +4,9 @@
 
 I’m a self-taught developer passionate about building apps that solve real problems and sharing what I learn.
 
-- 🔭 Working on: Home services booking app  
 - 🌱 Learning: Advanced JavaScript 
 - 👯 Collaborate: Open to teamwork on app projects  
-- 💬 Ask me about: JS, app dev, and productivity  
 - 📫 Contact: [Instagram](https://www.instagram.com/shantist._/)
-- ⚡ Fun fact: I do 100 deep pushups daily!
 
 ---
 
