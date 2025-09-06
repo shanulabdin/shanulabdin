@@ -1,6 +1,6 @@
 # Hi there, I’m Shan 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shanulabdin&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shanulabdin&theme=dark" alt="GitHub Streak" /></a>
 
 I’m a self-taught developer passionate about building apps that solve real problems and sharing what I learn.
 
