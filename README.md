@@ -6,7 +6,6 @@ I’m a self-taught developer passionate about building apps that solve real pro
 
 - 🌱 Learning: Advanced JavaScript 
 - 👯 Collaborate: Open to teamwork on app projects  
-- 📫 Contact: [Instagram](https://www.instagram.com/shantist._/)
 
 ---
 
